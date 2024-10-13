@@ -1,4 +1,4 @@
-<div align="center"> 
+<div> 
 <br />
       <img src="https://images.ui8.net/uploads/preview-05_1683292493343.png" alt="Banner">
   <br />
