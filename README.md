@@ -8,10 +8,10 @@
 
 ## 📋 <a name="table">Tabla de Contenidos</a>
 
-1. 🤖 [Introducción](#introduction)
-2. ⚙️ [Stack Tecnológico](#tech-stack)
-3. 🔋 [Características](#features)
-4. 🤸 [Inicio Rápido](#quick-start)
+ 1. 🤖 [Introducción](#introduction)
+ 2. ⚙️ [Stack Tecnológico](#tech-stack)
+ 3. 🔋 [Características](#features)
+ 4. 🤸 [Inicio Rápido](#quick-start)
  
  </div>
 
