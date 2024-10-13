@@ -208,35 +208,37 @@ export const collabApps = [
 export const pricing = [
   {
     id: "0",
-    title: "Basic",
-    description: "AI chatbot, personalized recommendations",
+    title: "Básico",
+    description: "Chatbot de IA, recomendaciones personalizadas",
     price: "0",
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Un chatbot de IA que puede entender tus consultas",
+      "Recomendaciones personalizadas basadas en tus preferencias",
+      "Capacidad de explorar la app y sus funciones sin ningún costo",
     ],
   },
   {
     id: "1",
     title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
+    description:
+      "Chatbot de IA avanzado, soporte prioritario, panel de análisis",
     price: "9.99",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "Un chatbot de IA avanzado que puede entender consultas complejas",
+      "Un panel de análisis para seguir tus conversaciones",
+      "Soporte prioritario para resolver problemas rápidamente",
     ],
   },
   {
     id: "2",
-    title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
+    title: "Empresarial",
+    description:
+      "Chatbot de IA personalizado, análisis avanzados, cuenta dedicada",
     price: null,
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Un chatbot de IA que puede entender tus consultas",
+      "Recomendaciones personalizadas basadas en tus preferencias",
+      "Capacidad de explorar la app y sus funciones sin ningún costo",
     ],
   },
 ];
