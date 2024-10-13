@@ -1,6 +1,6 @@
 <div align="center"> 
 <br />
-      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
+      <img src="https://images.ui8.net/uploads/preview-05_1683292493343.png" alt="Banner">
   <br />
 
 <h1 aling="center" >🧠 Brainwave - Sitio Web con UI/UX Moderna</h1>
