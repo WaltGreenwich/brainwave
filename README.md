@@ -1,10 +1,11 @@
 <div> 
-<br />
+  <br />
       <img src="https://images.ui8.net/uploads/preview-05_1683292493343.png" alt="Banner">
   <br />
 
-<h1 aling="center" >🧠 Brainwave - Sitio Web con UI/UX Moderna</h1>
- <div>  
+  <h1 aling="center" >🧠 Brainwave - Sitio Web con UI/UX Moderna</h1>
+  
+  <div>  
 
 ## 📋 <a name="table">Tabla de Contenidos</a>
 
