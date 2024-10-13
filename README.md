@@ -3,7 +3,7 @@
       <img src="https://images.ui8.net/uploads/preview-05_1683292493343.png" alt="Banner">
   <br />
 
-  <h1 style="text-align: center" >🧠 Brainwave - Sitio Web con UI/UX Moderna</h1>
+  <h1 align="center" >🧠 Brainwave - Sitio Web con UI/UX Moderna</h1>
   
   <div>  
 
