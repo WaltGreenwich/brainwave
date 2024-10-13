@@ -1,4 +1,4 @@
-🧠 Brainwave - Sitio Web con UI/UX Moderna
+<h1>🧠 Brainwave - Sitio Web con UI/UX Moderna</h1>
 Tabla de Contenidos
 🤖 Introducción
 ⚙️ Stack Tecnológico
